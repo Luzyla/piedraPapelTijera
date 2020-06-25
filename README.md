@@ -1,5 +1,8 @@
-# workshopjs
-Workshop ADA ITW sobre JavaScript, profe Malena Rey
+# piedraPapelTijera
+El clásico juego de Piedra, papel o tijera hecho en formato web con JavaScript
 
-html y css provistos por el workshop
-javascript armado en simultáneo durante el workshop
+HTML y CSS provistos por el workshop
+Javascript armado en simultáneo durante el workshop
+Profe: Male Rey
+
+Si quieren jugar, URL: http://codeanding.dilu.com.ar/js/index.html 
