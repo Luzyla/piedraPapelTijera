@@ -82,7 +82,7 @@ const decidirPuntaje = () => {
             resultadoTexto.textContent = "Empate! 😒"
         }
     
-        else if (eleccionUsuaria == "papel") {
+        else if (eleccionUsuaria == "piedra") {
             puntosUsuaria++
             puntajeUsuaria.textContent = puntosUsuaria;
             resultadoTexto.textContent = "¡Ganaste! 😍"
