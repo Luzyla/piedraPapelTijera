@@ -1,11 +1,11 @@
-# piedraPapelTijera
-El clásico juego de Piedra, papel o tijera hecho en formato web con JavaScript
+# rockPaperSissors
+The classic game Rock, Paper & Sissors, on website coded with JavaScript.
 
-HTML y CSS provistos por el workshop
-Javascript armado en simultáneo durante el workshop
-Profe: Male Rey
+HTML y CSS provided on the workshop.
+JavaScript codead on live in the workshop.
+Teacher: Male Rey
 
-Si quieren jugar, URL: http://codeanding.dilu.com.ar/js/index.html 
-En el respositorio los archivos del proyecto!
+If you want play it, URL: http://codeanding.dilu.com.ar/js/index.html 
+On Repository all the files of the project!
 
 Enjoy!
